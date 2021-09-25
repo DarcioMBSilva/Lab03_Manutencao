@@ -1,1 +1,9 @@
-# Lab03_Manutencao
+# Atividade 03 - Laboratório de Manutenção
+---
+
+Grupo:
+
+Arthur Caldeira\
+Dárcio Melo\
+Felipe dos Santos\
+Vinícius Henriques
